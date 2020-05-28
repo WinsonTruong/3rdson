@@ -1,14 +1,13 @@
-# Notion Page
-There is a dedicated Notion page that narrates the results, work-flow, and model descriptions to much greater extent.
-Check it out here: https://www.notion.so/winsontruong/Investigations-of-the-3rd-Son-98b818c3aa0d4f6d817c125f8d244f47
-
-
 # Introduction 
 Being the third son in my family, I wanted to answer some childhood questions using data science and econometrics.
 
 1. To what extent does having two kids of the same sex impact a couples probability to have more than two kids? 
 2. How does having more kids affect a mother's likelihood to return to work?
 3. How does having a larger number of children impact family earnings?
+
+# Notion Page
+There is a dedicated Notion page that narrates the results, work-flow, and model descriptions to much greater extent.
+Check it out here: https://www.notion.so/winsontruong/Investigations-of-the-3rd-Son-98b818c3aa0d4f6d817c125f8d244f47
 
 
 # Data
