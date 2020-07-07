@@ -5,7 +5,7 @@ Being the third son in my family, I wanted to answer some childhood questions us
 2. How does having more kids affect a mother's likelihood to return to work?
 3. How does having a larger number of children impact family earnings?
 
-[!joint](https://github.com/WinsonTruong/3rdson/blob/master/images/logearnings_joint.png)
+[!joint] (https://github.com/WinsonTruong/3rdson/blob/master/images/logearnings_joint.png)
 
 
 # Notion Page
