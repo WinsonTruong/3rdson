@@ -7,7 +7,7 @@ Being the third son in my family, I wanted to answer some childhood questions us
 
 # Notion Page
 There is a dedicated Notion page that narrates the results, work-flow, and model descriptions to much greater extent.
-Check it out here: https://www.notion.so/winsontruong/Investigations-of-the-3rd-Son-98b818c3aa0d4f6d817c125f8d244f47
+[Check it out here](https://www.notion.so/winsontruong/Investigations-of-the-3rd-Son-98b818c3aa0d4f6d817c125f8d244f47)
 
 
 # Data
@@ -18,7 +18,8 @@ Found in the 'data' folder, our data comes from the 2010 Census and it contains 
 * an age between 21 and 35
 * a father that worked in the past year
 
-Thank you to David Card and his class Econometrics C142 for providing sample.csv file. 
+Read about the metadata for [all 42 features here](https://www.notion.so/winsontruong/Metadata-3a70fb580c6041f582956374ba8e67a0). Thank you to David Card and his class Econometrics C142 for providing sample.csv file. 
+
 
 # Models
 The modeling work and intermediate results can be found in the 'notebooks' folder where there are 4 Python notebooks
