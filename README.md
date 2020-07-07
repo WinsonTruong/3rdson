@@ -43,6 +43,5 @@ The modeling work and intermediate results can be found in the 'notebooks' folde
 2. Having more than two children decreases the probability of the mother returning to work by about 13% (sorry Mom?)
 3. Having more than two children decreases earnings much more for the mother than it does the father.
 
-
 # Further Work
 This folder contains a notebook that builds on findings in the original project scope by looking at earnings by state.
