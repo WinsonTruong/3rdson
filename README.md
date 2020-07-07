@@ -5,6 +5,9 @@ Being the third son in my family, I wanted to answer some childhood questions us
 2. How does having more kids affect a mother's likelihood to return to work?
 3. How does having a larger number of children impact family earnings?
 
+[!joint](https://github.com/WinsonTruong/3rdson/blob/master/images/logearnings_joint.png)
+
+
 # Notion Page
 There is a dedicated Notion page that narrates the results, work-flow, and model descriptions to much greater extent.
 [Check it out here](https://www.notion.so/winsontruong/Investigations-of-the-3rd-Son-98b818c3aa0d4f6d817c125f8d244f47)
@@ -22,7 +25,22 @@ Read about the metadata for [all 42 features here](https://www.notion.so/winsont
 
 
 # Models
-The modeling work and intermediate results can be found in the 'notebooks' folder where there are 4 Python notebooks
+The modeling work and intermediate results can be found in the 'notebooks' folder where there are 4 Python notebooks. Here's a quick overview of what I did:
+
+- Linear Probability Models
+- Logit Models
+- Instrumental Variables / 2-Stage Least Squares
+
+### What's my statistic?
+**The odds-ratio**. Why? The odds-ratio is simple to understand and can be used to compare the feature sets!
+
+
+# Results
+
+1. The odds of having more than two children increases by ~98% for every additional year Asian and Pacific Islander-identifying mothers age.
+2. Having more than two children decreases the probability of the mother returning to work by about 13% (sorry Mom?)
+3. Having more than two children decreases earnings much more for the mother than it does the father.
+
 
 # Further Work
 This folder contains a notebook that builds on findings in the original project scope by looking at earnings by state.
